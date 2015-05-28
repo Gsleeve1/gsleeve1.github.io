@@ -9,6 +9,9 @@ div {
     height:40px;
     background-color: #00b5ef;
     margin-bottom: 10px;
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
 }
 #name {
     float: left;
@@ -75,6 +78,9 @@ a:hover {
     font-size: 14px;
     text-align: center;
     color: #ffffff;
+    border-style: solid;
+    border-color: blue;
+    border-width: 1px;
 }
 #footer p {
     position: relative;
